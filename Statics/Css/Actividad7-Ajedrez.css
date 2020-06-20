@@ -1,0 +1,13 @@
+table{
+    border: 8px solid #330f02;
+    width:500px;
+    height:500px;
+    padding:0;
+    border-spacing: 0;
+}
+.color1{
+    background-color: rgb(238, 95, 0);
+}
+.color2{
+    background-color: rgb(10, 103, 179);
+}
